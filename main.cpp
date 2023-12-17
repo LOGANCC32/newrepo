@@ -1,6 +1,9 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello,dev1" << std::endl;
+
+
+    std::cout << "Hello,main" << std::endl;
+
     return 0;
 }
